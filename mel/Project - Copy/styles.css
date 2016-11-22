@@ -1,0 +1,64 @@
+body{
+  font-family: Lato,Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-size: 14px;
+}
+
+
+navbar, .navbar-inverse { 
+font-size: 18px; 
+padding-left: 27%;
+text-align: center;
+}
+
+header{
+  position: relative;
+  left: 38%;
+}
+
+.left-body {
+  padding-left: 2%;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.paraone {
+  position: relative;
+  text-align: justify;
+	margin-right: 50%;
+}
+
+.bullets {
+  text-align: justify;
+}
+
+#cd-link {
+  text-align: center;
+  font-size: 18px;
+}
+
+footer {
+  background-color: #002e52;
+  color: white;                  
+  text-align: center;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+   width: 775px;
+   margin: auto;
+}
+   
+#proglang{
+    display: block;
+    margin: auto;
+    width: 50%;
+}   
+   
+#myCarousel{
+  position: absolute;
+  top: 37%;
+  left: 55%;
+  
+}
